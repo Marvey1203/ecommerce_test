@@ -1,0 +1,5 @@
+{
+  "name": "Vape Premium Store",
+  "description": "A premium e-commerce store for vapes with cart, checkout, and authentication.",
+  "requestFramePermissions": []
+}
